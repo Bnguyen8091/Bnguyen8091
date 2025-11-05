@@ -12,15 +12,6 @@
 `Java` · `Python` · `JS/TS` · `React` · `Tailwind` · `MySQL` · `Docker` 
 
 ## 📈 Snapshot
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bnguyen8091&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnguyen8091&layout=compact)
-
-## 🌐 Links
-[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/briannguyenlinked/) · [Resume](https://drive.google.com/file/d/1oCKDYsX822VG03PI-UYvy2pfQpdHQb_d/view?usp=sharing)
-
-> I love learning new tech trends and developing projects that I love
-
-
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=bnguyen8091&show_icons=true&theme=radical" 
@@ -44,3 +35,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnguyen8091&layout=compact" 
     alt="Top languages" />
 </picture>
+
+
+## 🌐 Links
+[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/briannguyenlinked/) · [Resume](https://drive.google.com/file/d/1oCKDYsX822VG03PI-UYvy2pfQpdHQb_d/view?usp=sharing)
+
+> I love learning new tech trends and developing projects that I love
+
+
